@@ -11,7 +11,6 @@ jobs:
       - node/install:
           install-yarn: true
           node-version: '18.16.1'
-      - run: npm i -g gatsby-cli gh-pages
       - run: node --version
 
   build_and_test:
@@ -20,9 +19,7 @@ jobs:
       - checkout
       - node/install-packages:
           pkg-manager: yarn
-      - run:
-          command: yarn
-          name: Run yarn install
+      - run: npm i -g gatsby-cli gh-pages
       - run:
           command: gatsby build
           name: Build app
