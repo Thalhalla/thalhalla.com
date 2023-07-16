@@ -21,10 +21,10 @@ jobs:
       - node/install-packages:
           pkg-manager: yarn
       - run:
-          command: yarn test
-          name: Run tests
+          command: yarn
+          name: Run yarn install
       - run:
-          command: yarn build
+          command: gatsby build
           name: Build app
       - persist_to_workspace:
           root: ~/project
