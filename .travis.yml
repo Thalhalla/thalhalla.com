@@ -1,0 +1,45 @@
+matrix:
+  include:
+  - os: linux
+    dist: trusty
+    sudo: required
+    services:
+    - docker
+    cache:
+      directories:
+      - "$HOME/.npm"
+      - ".git"
+    env:
+    - builder=travis
+language: node_js
+node_js:
+- 8
+addons:
+  apt:
+    packages:
+    - curl
+    - socat
+    - time
+before_install:
+- if [[ "$TRAVIS_OS_NAME" == "linux" ]]; then npm install -g gatsby-cli gh-pages;
+  fi
+script:
+- npm i
+- /bin/bash -l -c "/usr/bin/time -v make -e ci"
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: "$GITHUB_TOKEN"
+  keep-history: true
+  local-dir: public
+  target-branch: master
+  fqdn: thalhalla.com
+  verbose: true
+  on:
+    branch: gatsby
+
+notifications:
+  slack:
+    on_success: change # default: always
+    on_failure: always # default: always
+    secure: 3LBPGd7iK520ouVctnFUGdkirvmdLGB/Wwc/oY7ADB8l1friAi9p2hINbY06exof0qxfF0nVyztwhLsDA61ub1i8Gm4slz7Ek5jvkqFDZ4dgA3oDHDUl7/tM0Hzutr/XYq7Cn3B/DqFPp5IV8RI2H0FNyWCSpxUfEsoJ7nlWunQj409VTM8qp5JLc/3SDRMmZC8/MCFtIpetuhOmBbNO87REveSQ2tsCE81ksKgFT1stFqow/doLqsYGQCHJ1weZLF21qtL/CufCGI/9L1rObpqGQfe+NlFu7rLd7Fm4bxpXj/DSwp+rsiBCRlTz9hhujkOJEhksNwNhaqRaR5Ovc9Zqw8jwaOcn4wva+f3SJP5IzCLTtVVzHDMbpyQZcSgaGhYtwbF3mNGyOax29iRHOYlVkqiE05cAv56RpLjQCkzU0EDJKmVaIoD+otRlT/+YysGgoYLtpMjmQu32omucjdc96/In8KhxPk0wQQGCjdpEIfvj6wg1O4noQ8iy9mqeMhKPudaHZqLwTMQjK9FMvY0mZo+L8Ijvj70ckmJs8i0x8WcuWtJIDa+VtOZ1ATh9zwURhFxORhCs90WHqoQbNHUf9+Y7ZLCnkIzVAQq4lF6wQxCowLh5Z9sth5stCKhK/ioHoAFelLaiNvhF6ueE8UHQfpf2bIJLHjRN+I++81E=
