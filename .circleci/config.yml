@@ -31,11 +31,13 @@ jobs:
           paths:
             - .
 
-#  deploy: # this can be any name you choose
+  deploy: # this can be any name you choose
+    executor: node/default
 #    executor: heroku/default
-#    steps:
-#      - attach_workspace:
-#          at: ~/project
+    steps:
+      - attach_workspace:
+          at: ~/project
+      - run: ls -alh ~/project
 #      - heroku/deploy-via-git:
 #          force: true # force push when pushing to the heroku remote, see: https://devcenter.heroku.com/articles/git
 
