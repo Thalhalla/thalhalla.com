@@ -26,9 +26,9 @@ jobs:
           command: gatsby build
           name: Build app
       - persist_to_workspace:
-          root: ~/project
+          root: ~/project/public
           paths:
-            - ./public
+            - .
 
   deploy: # this can be any name you choose
     executor: node/default
