@@ -3,6 +3,12 @@ orbs:
   node: circleci/node@5.0.2
   #heroku: circleci/heroku@1.2.6
 jobs:
+  test:
+    executor: node/default
+    steps:
+      - checkout
+      - run: npm run test
+jobs:
   install-node-example:
     docker:
       - image: cimg/base:stable
@@ -18,9 +24,10 @@ jobs:
     steps:
       - checkout
       - run: node --version
+      - run: sudo npm install -g npm@latest gatsby-cli gh-pages
       - node/install-packages:
+          cache-path: ~/project/node_modules
           pkg-manager: yarn
-      - run: npm i -g gatsby-cli gh-pages
       - run:
           command: gatsby build
           name: Build app
