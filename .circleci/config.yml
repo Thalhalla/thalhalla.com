@@ -3,12 +3,6 @@ orbs:
   node: circleci/node@5.0.2
   #heroku: circleci/heroku@1.2.6
 jobs:
-  test:
-    executor: node/default
-    steps:
-      - checkout
-      - run: npm run test
-jobs:
   install-node-example:
     docker:
       - image: cimg/base:stable
