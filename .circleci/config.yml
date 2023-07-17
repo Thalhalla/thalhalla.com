@@ -28,7 +28,7 @@ jobs:
       - persist_to_workspace:
           root: ~/project
           paths:
-            - .
+            - ./public
 
   deploy: # this can be any name you choose
     executor: node/default
