@@ -17,6 +17,7 @@ jobs:
     executor: node/default
     steps:
       - checkout
+      - run: node --version
       - node/install-packages:
           pkg-manager: yarn
       - run: npm i -g gatsby-cli gh-pages
