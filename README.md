@@ -12,4 +12,5 @@ NOTE:  Do not use `apt` to install `yarn`.  Use `npm`.
    4. `nvm use 18`
 3. Install gatsby-cli
    4. `npm install -g gatsby-cli`
-4. Run `gatsby develop` to start your local dev instance
+4. Run `yarn`
+5. Run `gatsby develop` to start your local dev instance
