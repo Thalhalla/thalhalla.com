@@ -4,7 +4,18 @@
 module.exports = {
   siteMetadata: {
     title: `Thalhalla.com`,
-    siteUrl: `https://www.yourdomain.tld`,
+    description: `Thalhalla Studios`,
+    siteUrl: `https://thalhalla.com`,
   },
-  plugins: [],
+  plugins: [
+    "gatsby-plugin-image",
+    "gatsby-plugin-sharp",
+    {
+      resolve: "gatsby-source-filesystem",
+      options: {
+        name: `blog`,
+        path: `${__dirname}/blog`,
+      }
+    },
+  ],
 }
