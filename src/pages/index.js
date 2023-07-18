@@ -1,14 +1,14 @@
 import * as React from 'react'
 import { Link } from 'gatsby'
-import hammerTime from "./hammerTime.jpg";
 import Layout from '../components/layout'
+import { StaticImage } from 'gatsby-plugin-image'
 
 // Step 2: Define your component
 const IndexPage = () => {
   return (
   <Layout pageTitle="Thalhalla">
     <main>
-      <img src={hammerTime} height="242" alt="Thalhammer" className='Thor-center' />
+      <StaticImage src="./hammerTime.jpg" alt="Odin's hammer"></StaticImage>
     </main>
   </Layout>
   )
