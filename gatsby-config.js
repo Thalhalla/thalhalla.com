@@ -8,6 +8,7 @@ module.exports = {
     siteUrl: `https://thalhalla.com`,
   },
   plugins: [
+    "gatsby-transformer-sharp",
     "gatsby-plugin-image",
     "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",
