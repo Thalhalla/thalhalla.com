@@ -36,11 +36,6 @@ const Nav = ({ pageTitle, children }) => {
             Blog
           </Link>
         </li>
-        <li className={navLinkItem}>
-          <Link to="/debug" className={navLinkText}>
-            Debug
-          </Link>
-        </li>
       </ul>
     </nav>
   )
