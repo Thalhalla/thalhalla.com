@@ -16,6 +16,11 @@ const Nav = ({ pageTitle, children }) => {
           </Link>
         </li>
         <li className={navLinkItem}>
+          <Link to="/privacy" className={navLinkText}>
+            Privacy Policy
+          </Link>
+        </li>
+        <li className={navLinkItem}>
           <Link to="/about" className={navLinkText}>
             About
           </Link>
