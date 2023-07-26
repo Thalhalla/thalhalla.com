@@ -4,7 +4,7 @@ import {
   navLinks,
   navLinkItem,
   navLinkText
-} from './layout.module.css'
+} from '../styles/nav.module.css'
 
 const Nav = ({ pageTitle, children }) => {
   return (
@@ -28,6 +28,11 @@ const Nav = ({ pageTitle, children }) => {
         <li className={navLinkItem}>
           <Link to="/blog" className={navLinkText}>
             Blog
+          </Link>
+        </li>
+        <li className={navLinkItem}>
+          <Link to="/fonts" className={navLinkText}>
+            Fonts
           </Link>
         </li>
       </ul>

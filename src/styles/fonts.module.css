@@ -1,0 +1,47 @@
+.swanky {
+  color: green;
+  font-size: 5rem;
+  font-family: 'Swanky and Moo Moo', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  line-height: 4.25rem;
+}
+.trochut {
+  color: green;
+  font-size: 5rem;
+  font-family: 'Trochut', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  line-height: 4.25rem;
+}
+.caveat {
+  color: green;
+  font-size: 5rem;
+  font-family: 'Caveat Variable', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  line-height: 4.25rem;
+}
+.nabla {
+  color: green;
+  font-size: 5rem;
+  font-family: 'Nabla Variable', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  line-height: 4.25rem;
+}
+.opensans {
+  color: green;
+  font-size: 5rem;
+  font-family: 'Open Sans Variable', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  line-height: 4.25rem;
+}
+.thalstyle {
+  color: green;
+  border-top: 1px solid green;
+  border-bottom: 1px solid green;
+  border-right: 1px solid green;
+  border-left: 1px solid green;
+}

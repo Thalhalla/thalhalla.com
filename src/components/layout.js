@@ -1,10 +1,11 @@
 import * as React from 'react'
 import { useStaticQuery, graphql } from 'gatsby'
 import {
+  thalhalla,
   siteTitle,
   container,
   heading
-} from './layout.module.css'
+} from '../styles/layout.module.css'
 import Nav from './nav'
 
 const Layout = ({ pageTitle, children }) => {
@@ -21,7 +22,7 @@ const Layout = ({ pageTitle, children }) => {
 
   return (
     <div className={container}>
-      <header className={siteTitle}>{data.site.siteMetadata.title}</header>
+      <header className={thalhalla}>{data.site.siteMetadata.title}</header>
       <Nav/>
       <main>
         <h1 className={heading}>{pageTitle}</h1>

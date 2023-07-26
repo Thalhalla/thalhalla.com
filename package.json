@@ -15,8 +15,14 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@fontsource-variable/caveat": "^5.0.5",
+    "@fontsource-variable/nabla": "^5.0.5",
+    "@fontsource-variable/open-sans": "^5.0.6",
+    "@fontsource/swanky-and-moo-moo": "^5.0.5",
+    "@fontsource/trochut": "^5.0.5",
     "@mdx-js/react": "^2.3.0",
     "gatsby": "^5.11.0",
+    "gatsby-omni-font-loader": "^2.0.2",
     "gatsby-plugin-image": "^3.11.0",
     "gatsby-plugin-mdx": "^5.11.0",
     "gatsby-plugin-sharp": "^5.11.0",
@@ -28,7 +34,8 @@
     "gatsby-transformer-sharp": "^5.11.0",
     "prismjs": "^1.29.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-helmet": "^6.1.0"
   },
   "devDependencies": {
     "css-loader": "^6.8.1"
