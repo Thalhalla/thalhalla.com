@@ -9,6 +9,12 @@ module.exports = {
   },
   plugins: [
     "gatsby-transformer-sharp",
+    {
+      resolve: `gatsby-plugin-theme-ui`,
+      options: {
+        preset: "@theme-ui/preset-bulma",
+      },
+    },
     "gatsby-plugin-image",
     "gatsby-plugin-mdx",
     "gatsby-plugin-sharp",

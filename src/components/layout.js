@@ -7,6 +7,7 @@ import {
   heading
 } from '../styles/layout.module.css'
 import Nav from './nav'
+import Header from './header'
 
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
@@ -22,7 +23,7 @@ const Layout = ({ pageTitle, children }) => {
 
   return (
     <div className={container}>
-      <header className={thalhalla}>{data.site.siteMetadata.title}</header>
+      <Header>{data.site.siteMetadata.title}</Header>
       <Nav/>
       <main>
         <h1 className={heading}>{pageTitle}</h1>
