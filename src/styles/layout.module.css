@@ -6,17 +6,6 @@
 .heading {
   color: rebeccapurple;
 }
-.nav-links {
-  display: flex;
-  list-style: none;
-  padding-left: 0;
-}
-.nav-link-item {
-  padding-right: 2rem;
-}
-.nav-link-text {
-  color: black;
-}
 .site-title {
   font-size: 3rem;
   color: gray;
@@ -58,4 +47,13 @@
   overflow: initial;
   float: left; /* 1 */
   min-width: 100%; /* 2 */
+}
+
+.thalhalla {
+  color: green;
+  font-size: 5rem;
+  font-family: 'Swanky and Moo Moo', sans-serif;
+  margin-top: 10px;
+  margin-bottom: 1rem;
+  line-height: 4.25rem;
 }

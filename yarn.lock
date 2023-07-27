@@ -1170,6 +1170,31 @@
     minimatch "^3.0.4"
     strip-json-comments "^3.1.1"
 
+"@fontsource-variable/caveat@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/caveat/-/caveat-5.0.5.tgz#579581e18273034bdef6dbd5a27c3146bca47130"
+  integrity sha512-dZDIWamP7nZvsIBy9Mpu6ixR20sZ+HaVKHFE7iRcC/7dwKW1WyckiRdoQ/ZeCEQuKs+RA+fvbVeQeiA07heQLQ==
+
+"@fontsource-variable/nabla@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/nabla/-/nabla-5.0.5.tgz#cfe3b4427c1d21edac07b16460f745ff203d8152"
+  integrity sha512-7i+SxzNjB/1uArPSjNqhNRdCeKq5H7VUK6eUMXbAx3CxMTZK9PHgSjH1prVEcQuDBYH+Qjwltd+ph/xYRXk3yg==
+
+"@fontsource-variable/open-sans@^5.0.6":
+  version "5.0.6"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/open-sans/-/open-sans-5.0.6.tgz#d92c5de9843b999d914e444afda54c39a752d949"
+  integrity sha512-ZEbqIsXo84fQeQwU2CPyI3W+8QMdbTVBS+CRbWBDA8nPbV9pyRCBy3UceyPrA7l1MJx4qaz5wv5hHQXDadgCzg==
+
+"@fontsource/swanky-and-moo-moo@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@fontsource/swanky-and-moo-moo/-/swanky-and-moo-moo-5.0.5.tgz#2500889e15aad289ec58cd8a549af2efeace8cf0"
+  integrity sha512-OjmEx+6QgefdoaIEv/fFnIl9iYFBBZlb1aGy/8qtnv6CLQskopjZ02Qnh5/D2U52ob4OuAvar9w6OrvkciuQPQ==
+
+"@fontsource/trochut@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@fontsource/trochut/-/trochut-5.0.5.tgz#acbac712594a6c37601cdffe5c1cc2b3cea74394"
+  integrity sha512-8H3Pv6vqjO/5GeEoVStaPjLDXbiEjOl3QWHoe88KHZA7ksczYcexcplw0X93xqHGsxbNNC9RTnKsZfktedsVHg==
+
 "@gatsbyjs/parcel-namer-relative-to-cwd@^2.11.0":
   version "2.11.0"
   resolved "https://registry.yarnpkg.com/@gatsbyjs/parcel-namer-relative-to-cwd/-/parcel-namer-relative-to-cwd-2.11.0.tgz#80b92ea1432838f5d86a8f85719ffe57fd3ddabe"
@@ -5435,6 +5460,11 @@ gatsby-link@^5.11.0:
     gatsby-page-utils "^3.11.0"
     prop-types "^15.8.1"
 
+gatsby-omni-font-loader@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/gatsby-omni-font-loader/-/gatsby-omni-font-loader-2.0.2.tgz#821961da51fd163ea6f93ad5fecd174f7612715d"
+  integrity sha512-Bp6truuUwbDRHWtL+u/lUvMsAT5ipO45LNJgqNdOzTUGw3GB7dw8k4RHDtpxwFTgacdk25kH8aOYfh460jJYCQ==
+
 gatsby-page-utils@^3.11.0:
   version "3.11.0"
   resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-3.11.0.tgz#f7d63757f30fa9f0cadaa5c3fd18462ee152d0b8"
@@ -9230,7 +9260,7 @@ prompts@^2.4.2:
     kleur "^3.0.3"
     sisteransi "^1.0.5"
 
-prop-types@^15.8.1:
+prop-types@^15.7.2, prop-types@^15.8.1:
   version "15.8.1"
   resolved "https://registry.yarnpkg.com/prop-types/-/prop-types-15.8.1.tgz#67d87bf1a694f48435cf332c24af10214a3140b5"
   integrity sha512-oj87CgZICdulUohogVAR7AjlC0327U4el4L6eAvOqCeudMDVU0NThNaV+b9Df4dXgSP1gXMTnPdhfe/2qDH5cg==
@@ -9421,6 +9451,21 @@ react-error-overlay@^6.0.11:
   resolved "https://registry.yarnpkg.com/react-error-overlay/-/react-error-overlay-6.0.11.tgz#92835de5841c5cf08ba00ddd2d677b6d17ff9adb"
   integrity sha512-/6UZ2qgEyH2aqzYZgQPxEnz33NJ2gNsnHA2o5+o4wW9bLM/JYQitNP9xPhsXwC08hMMovfGe/8retsdDsczPRg==
 
+react-fast-compare@^3.1.1:
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/react-fast-compare/-/react-fast-compare-3.2.2.tgz#929a97a532304ce9fee4bcae44234f1ce2c21d49"
+  integrity sha512-nsO+KSNgo1SbJqJEYRE9ERzo7YtYbou/OqjSQKxV7jcKox7+usiUVZOAC+XnDOABXggQTno0Y1CpVnuWEc1boQ==
+
+react-helmet@^6.1.0:
+  version "6.1.0"
+  resolved "https://registry.yarnpkg.com/react-helmet/-/react-helmet-6.1.0.tgz#a750d5165cb13cf213e44747502652e794468726"
+  integrity sha512-4uMzEY9nlDlgxr61NL3XbKRy1hEkXmKNXhjbAIOVw5vcFrsdYbH2FEwcNyWvWinl103nXgzYNlns9ca+8kFiWw==
+  dependencies:
+    object-assign "^4.1.1"
+    prop-types "^15.7.2"
+    react-fast-compare "^3.1.1"
+    react-side-effect "^2.1.0"
+
 react-is@^16.13.1:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
@@ -9439,6 +9484,11 @@ react-server-dom-webpack@0.0.0-experimental-c8b778b7f-20220825:
     acorn "^6.2.1"
     loose-envify "^1.1.0"
     neo-async "^2.6.1"
+
+react-side-effect@^2.1.0:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/react-side-effect/-/react-side-effect-2.1.2.tgz#dc6345b9e8f9906dc2eeb68700b615e0b4fe752a"
+  integrity sha512-PVjOcvVOyIILrYoyGEpDN3vmYNLdy1CajSFNt4TDsVQC5KpTijDvWVoR+/7Rz2xT978D8/ZtFceXxzsPwZEDvw==
 
 react@^18.2.0:
   version "18.2.0"
