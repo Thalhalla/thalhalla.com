@@ -8,11 +8,14 @@
     "gatsby"
   ],
   "scripts": {
+    "dev": "gatsby develop",
     "develop": "gatsby develop",
     "start": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve",
-    "clean": "gatsby clean"
+    "clean": "gatsby clean",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
   },
   "dependencies": {
     "@emotion/react": "^11.11.1",
@@ -25,6 +28,7 @@
     "@theme-ui/mdx": "^0.16.0",
     "@theme-ui/preset-dark": "^0.16.0",
     "@theme-ui/preset-tosh": "^0.16.0",
+    "babel-plugin-remove-graphql-queries": "^5.11.0",
     "gatsby": "^5.11.0",
     "gatsby-omni-font-loader": "^2.0.2",
     "gatsby-plugin-image": "^3.11.0",
@@ -44,6 +48,21 @@
     "theme-ui": "^0.16.0"
   },
   "devDependencies": {
-    "css-loader": "^6.8.1"
+    "@babel/preset-env": "^7.22.9",
+    "@babel/preset-react": "^7.22.5",
+    "@storybook/addon-essentials": "^7.1.1",
+    "@storybook/addon-interactions": "^7.1.1",
+    "@storybook/addon-links": "^7.1.1",
+    "@storybook/addon-onboarding": "^1.0.8",
+    "@storybook/blocks": "^7.1.1",
+    "@storybook/builder-webpack5": "^7.1.1",
+    "@storybook/manager-webpack5": "^6.5.16",
+    "@storybook/react": "^7.1.1",
+    "@storybook/react-webpack5": "^7.1.1",
+    "@storybook/testing-library": "^0.2.0",
+    "css-loader": "^6.8.1",
+    "prop-types": "^15.8.1",
+    "storybook": "^7.1.1",
+    "storybook-addon-gatsby": "^0.0.5"
   }
 }

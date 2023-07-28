@@ -7,7 +7,7 @@ import {
   heading
 } from '../styles/layout.module.css'
 import Nav from './nav'
-import Header from './header'
+import { Header } from './Header';
 
 const Layout = ({ pageTitle, children }) => {
   const data = useStaticQuery(graphql`
@@ -20,15 +20,25 @@ const Layout = ({ pageTitle, children }) => {
       }
     }
   `)
+  const [user, setUser] = React.useState();
 
   return (
+    <div>
+      <Header
+        user={user}
+        onLogin={() => setUser({ name: 'Jane Doe' })}
+        onLogout={() => setUser(undefined)}
+        onCreateAccount={() => setUser({ name: 'Jane Doe' })}
+      >
+        {data.site.siteMetadata.title}
+      </Header>
     <div className={container}>
-      <Header>{data.site.siteMetadata.title}</Header>
       <Nav/>
       <main>
         <h1 className={heading}>{pageTitle}</h1>
         {children}
       </main>
+    </div>
     </div>
   )
 }
