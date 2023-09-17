@@ -1,7 +1,9 @@
 .container {
-  margin: auto;
-  max-width: 500px;
+  margin: 3em;
   font-family: sans-serif;
+  /*
+  max-width: 500px;
+  */
 }
 .heading {
   color: rebeccapurple;
