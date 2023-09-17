@@ -29,7 +29,7 @@ PRIVACY POLICY
 <p>When we refer to “Thalhalla” (or any similar terms like “we” or “us”) in this privacy policy, we mean the Thalhalla Games entity that controls and is responsible for your information, including Thalhalla Games, Inc. and its subsidiaries that help provide and support the Thalhalla Services. You can also find details about the data controller for personal information we collect through different Thalhalla Services in “Contact Us” below.<br></br>
 &nbsp;</p>
 
-<h2>1. WHAT ARE THE Thalhalla SERVICES?</h2>
+<h2>1. WHAT ARE THE THALHALLA SERVICES?</h2>
 
 <p>We use the term “Thalhalla Services” to describe any Thalhalla products or services that directly link to this privacy policy. These include, for example:</p>
 
