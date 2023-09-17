@@ -12,417 +12,283 @@ const PrivacyPage = () => {
     <p>
 PRIVACY POLICY
 
-Last updated July 25, 2023
 
-This privacy notice for Thalhalla ("we," "us," or "our"), describes how and why we might collect, store, use, and/or share ("process") your information when you use our services ("Services"), such as when you:
-Visit our website at thalhalla.com, or any website of ours that links to this privacy notice
-Engage with us in other related ways, including any sales, marketing, or events
-Questions or concerns? Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at legal@thalhalla.com.
+<div class="cms-page-content privacypolicy container">
+<h1>Thalhalla GAMES&nbsp;PRIVACY POLICY</h1>
 
+<p><a href="#_5._CHILDREN’S_PRIVACY">Children’s Privacy</a></p>
 
-SUMMARY OF KEY POINTS
+<p>Last&nbsp;Updated: September 17th, 2023.</p>
 
-This summary provides key points from our privacy notice, but you can find out more details about any of these topics by clicking the link following each key point or by using our table of contents below to find the section you are looking for.
+<p>Welcome to Thalhalla!</p>
 
-What personal information do we process? When you visit, use, or navigate our Services, we may process personal information depending on how you interact with us and the Services, the choices you make, and the products and features you use. Learn more about personal information you disclose to us.
+<p>Thalhalla. is headquartered in Austin, Texas. We and our subsidiaries have offices and operations located around the world that help create and deliver some of your favorite products and services, including games like Thalhalla and development tools like Unreal Engine (see “Our Global Operations” below).</p>
 
-Do we process any sensitive personal information? We do not process sensitive personal information.
+<p>This privacy policy describes the different ways we may collect, use, and share information on, through, or in connection with the Thalhalla Services (see “What are the Thalhalla Services?” below). If you have any questions, you can always reach out to us as described in “Contact Us” below.</p>
 
-Do we receive any information from third parties? We do not receive any information from third parties.
+<p>When we refer to “Thalhalla” (or any similar terms like “we” or “us”) in this privacy policy, we mean the Thalhalla Games entity that controls and is responsible for your information, including Thalhalla Games, Inc. and its subsidiaries that help provide and support the Thalhalla Services. You can also find details about the data controller for personal information we collect through different Thalhalla Services in “Contact Us” below.<br></br>
+&nbsp;</p>
 
-How do we process your information? We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent. We process your information only when we have a valid legal reason to do so. Learn more about how we process your information.
+<h2>1. WHAT ARE THE Thalhalla SERVICES?</h2>
 
-In what situations and with which parties do we share personal information? We may share information in specific situations and with specific third parties. Learn more about when and with whom we share your personal information.
+<p>We use the term “Thalhalla Services” to describe any Thalhalla products or services that directly link to this privacy policy. These include, for example:</p>
 
-How do we keep your information safe? We have organizational and technical processes and procedures in place to protect your personal information. However, no electronic transmission over the internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Learn more about how we keep your information safe.
+<ul>
+	<li>websites&nbsp;and applications such as&nbsp;<a href="http://www.thalhalla.com/">www.thalhalla.com</a>&nbsp;and the&nbsp;<a href="https://www.thalhalla.com/store/en-US/">Thalhalla Games Store</a>,</li>
+</ul>
 
-What are your rights? Depending on where you are located geographically, the applicable privacy law may mean you have certain rights regarding your personal information. Learn more about your privacy rights.
+<p>Note that your use of the Thalhalla Services may also be subject to additional terms and conditions. For example, you must review and accept the Thalhalla End User License Agreement (<a href="https://www.thalhalla.com/Thalhalla/en-US/eula">link</a>) to play Thalhalla, the Psyonix Terms of Use (<a href="https://www.psyonix.com/tou/">link</a>) to play Rocket League, and the Fall Guys: Ultimate Knockout – End User License Agreement (<a href="https://fallguys.com/eula">link</a>) to play Fall Guys, and the Horizon Chase 2 End User License Agreement (<a href="https://horizonchase2.com/eula/windows/en.txt">link</a>) to play Horizon Chase 2.</p>
 
-How do you exercise your rights? The easiest way to exercise your rights is by visiting legal@thalhalla.com, or by contacting us. We will consider and act upon any request in accordance with applicable data protection laws.
+<p>Please read this entire privacy policy. You should also carefully review any other agreements that apply to the Thalhalla Services you use, and confirm you understand and agree to them, before using those products or services.<br></br>
+&nbsp;</p>
 
-Want to learn more about what we do with any information we collect? Review the privacy notice in full.
+<h2>2. WHAT INFORMATION DO WE COLLECT?</h2>
 
+<p>The types of information we collect depend on how you interact with us. Generally speaking, we collect information in three main ways: A) when you provide it to us, B) automatically when you use the Thalhalla Services, and C) from service providers and third parties.</p>
 
-TABLE OF CONTENTS
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A. Information You Provide</h3>
 
-1. WHAT INFORMATION DO WE COLLECT?
-2. HOW DO WE PROCESS YOUR INFORMATION?
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR PERSONAL INFORMATION?
-4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
-5. HOW LONG DO WE KEEP YOUR INFORMATION?
-6. HOW DO WE KEEP YOUR INFORMATION SAFE?
-7. DO WE COLLECT INFORMATION FROM MINORS?
-8. WHAT ARE YOUR PRIVACY RIGHTS?
-9. CONTROLS FOR DO-NOT-TRACK FEATURES
-10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
-11. DO WE MAKE UPDATES TO THIS NOTICE?
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
+<p>You can provide us with different kinds of information depending on how you interact with the Thalhalla Services. Sometimes we’ll ask you to provide specific pieces of information, such as when we require it to provide parts of the Thalhalla Services to you (for example, by prompting you to provide your date of birth or complete an online registration process). If we ask you to provide us with information in these cases and you choose not to, you may not be able to access the relevant Thalhalla Services and/or some features may not operate as intended.</p>
 
+<p>For instance, in order to make purchases on the Thalhalla Games Store and to play some of our games, you’ll need an Thalhalla account. To create one, you’ll need to provide us with basic registration information like your name, a public-facing display name, password, the country you live in, and email address. If you want to make a purchase, we may ask you to provide payment-related information (like your credit card number and expiration date) to complete the transaction.</p>
 
-1. WHAT INFORMATION DO WE COLLECT?
+<p>We also collect the information you voluntarily provide to sign up for email alerts, use social features like forums or chat, register for early access to our games, use our developer tools (including to create and publish games and other content), enable two-factor authentication, register for or attend our events, complete surveys, or contact us through Player Support requests or customer service. If you enter a contest or competitive event, or participate in our&nbsp;<a href="https://www.thalhalla.com/affiliate/en-US/overview">Support-A-Creator</a>&nbsp;program, we’ll collect your application information and other information we may need to help confirm your eligibility and process payouts. We collect whatever information you choose to provide to us in those or other similar cases.</p>
 
-Personal information you disclose to us
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;B. Information We Collect Automatically</h3>
 
-In Short: We collect personal information that you provide to us.
+<p>We collect some information automatically when you visit, access, or use the Thalhalla Services. This includes information about your gameplay or application usage, purchases, entitlements, and other activity in the Thalhalla Services, typically associated with your account (if you are logged into your Thalhalla account or use a third-party account to access the Thalhalla Services) or with an identifier we have assigned to your device or profile. While the specific types of information that we automatically collect may vary, they generally include:</p>
 
-We collect personal information that you voluntarily provide to us when you register on the Services, express an interest in obtaining information about us or our products and Services, when you participate in activities on the Services, or otherwise when you contact us.
+<ul>
+	<li>Usage information and statistics about how you interact with the Thalhalla Services, including the application you used or the game you played, how long you used or played it and when, gameplay attempts, progression and results, saved preferences, crash reports, the URLs of our websites that you have visited, URLs of referring and exiting pages, page views, time spent on a page, number of clicks, and platform type;</li>
+	<li>Technical information about your computer, device, hardware, or software you use to access our services, such as IP address, device identifiers, your internet service provider,&nbsp;plugins, or other transactional or identifier information for your device (such as device make and model, information about device operating systems and browsers, or other device or system-related specifications); and</li>
+	<li>The general location of your device, which we typically derive from your device’s IP address.</li>
+</ul>
 
-Personal Information Provided by You. The personal information that we collect depends on the context of your interactions with us and the Services, the choices you make, and the products and features you use. The personal information we collect may include the following:
-billing addresses
-debit/credit card numbers
-mailing addresses
-email addresses
-names
-contact or authentication data
-phone numbers
-Sensitive Information. We do not process sensitive information.
+<p>The Thalhalla Services use technologies such as cookies, log files, and web beacons to automatically collect the types of information listed above. Some of these technologies may create small files or record-keeping tools that may be stored on your device. They help us, our service providers, and third parties recognize your device and provide information about how you use and interact with the Thalhalla Services. For example, they&nbsp;support our ability to&nbsp;authenticate users, remember preferences, manage advertising, personalize experiences, and conduct data analytics.</p>
 
-All personal information that you provide to us must be true, complete, and accurate, and you must notify us of any changes to such personal information.
+<p>Please note that if certain features on the Thalhalla Services are provided by third parties, those third parties may also use automated means of data collection and may record information about your use of the Thalhalla Services or others’ websites over time. These features are subject to those third parties’ privacy notices and policies.</p>
 
-Information automatically collected
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;C. Information We Collect from Other Sources</h3>
 
-In Short: Some information — such as your Internet Protocol (IP) address and/or browser and device characteristics — is collected automatically when you visit our Services.
+<p>In some cases, we may also receive information about you from service providers and third parties in connection with your use of the Thalhalla Services or your interactions with us on other platforms.</p>
 
-We automatically collect certain information when you visit, use, or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services, and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.
+<p>For example, some other developers allow you to use your Thalhalla account to log in to their service. And if you choose to link your Thalhalla account with your account on a third-party social media (like Facebook), gaming (like Steam), or other similar website or service, or if you interact with an ad for one of the Thalhalla Services on an external website or service, the company that operates that website or service may share some information with Thalhalla in accordance with their own privacy practices. Your privacy settings on the other company’s website or service typically control the specific types of information they can share with Thalhalla, so please be sure to review and update them regularly. Common examples for linked accounts might include your third-party account display name and user ID, as well as associated device information, name, and email address. For participants in our Support-a-Creator program, we may also collect the number of social media account followers you have for program eligibility purposes.</p>
 
-The information we collect includes:
-Log and Usage Data. Log and usage data is service-related, diagnostic, usage, and performance information our servers automatically collect when you access or use our Services and which we record in log files. Depending on how you interact with us, this log data may include your IP address, device information, browser type, and settings and information about your activity in the Services (such as the date/time stamps associated with your usage, pages and files viewed, searches, and other actions you take such as which features you use), device event information (such as system activity, error reports (sometimes called "crash dumps"), and hardware settings).
-Device Data. We collect device data such as information about your computer, phone, tablet, or other device you use to access the Services. Depending on the device used, this device data may include information such as your IP address (or proxy server), device and application identification numbers, location, browser type, hardware model, Internet service provider and/or mobile carrier, operating system, and system configuration information.
-Location Data. We collect location data such as information about your device's location, which can be either precise or imprecise. How much information we collect depends on the type and settings of the device you use to access the Services. For example, we may use GPS and other technologies to collect geolocation data that tells us your current location (based on your IP address). You can opt out of allowing us to collect this information either by refusing access to the information or by disabling your Location setting on your device. However, if you choose to opt out, you may not be able to use certain aspects of the Services.
-2. HOW DO WE PROCESS YOUR INFORMATION?
+<p>You can also buy, download, or access some Thalhalla Services on or through services operated by third parties. If you do, they may provide us with information to facilitate your access to and use of the Thalhalla Services. This typically includes information like your display name, user ID, and device and region information. For example, you can choose to download and play games like Thalhalla on gaming consoles (like PlayStation®, Microsoft Xbox, and Nintendo Switch) through your gaming console account. When you do, the company operating that platform or service may share some information with us, which helps us do things like facilitate your gameplay and track your progression and entitlements.</p>
 
-In Short: We process your information to provide, improve, and administer our Services, communicate with you, for security and fraud prevention, and to comply with law. We may also process your information for other purposes with your consent.
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;D. Fraud Prevention &amp; Anti-Cheat</h3>
 
-We process your personal information for a variety of reasons, depending on how you interact with our Services, including:
-To facilitate account creation and authentication and otherwise manage user accounts. We may process your information so you can create and log in to your account, as well as keep your account in working order.
-To deliver and facilitate delivery of services to the user. We may process your information to provide you with the requested service.
-To respond to user inquiries/offer support to users. We may process your information to respond to your inquiries and solve any potential issues you might have with the requested service.
-To send administrative information to you. We may process your information to send you details about our products and services, changes to our terms and policies, and other similar information.
-To fulfill and manage your orders. We may process your information to fulfill and manage your orders, payments, returns, and exchanges made through the Services.
+<p>Providing users with a fair, balanced, and competitive experience on the Thalhalla Services is extremely important to us. We strictly enforce prohibitions against cheating, hacking, account stealing, and any other unauthorized or fraudulent activity on the Thalhalla Services. We use a variety of anti-cheat and fraud prevention technologies to help us identify and prevent malicious activity. These services may collect and analyze data about your computer and the software on your computer to detect cheating and may be provided by Thalhalla or by service providers such as BattlEye.<br></br>
+&nbsp;</p>
 
+<h2>3. HOW DO WE USE INFORMATION?</h2>
 
-To enable user-to-user communications. We may process your information if you choose to use any of our offerings that allow for communication with another user.
+<p>As a general matter, we use the information we collect (either individually or in combination with other information collected as described in this policy) to help us provide, improve, customize, analyze, and promote the Thalhalla Services.</p>
 
+<p>This includes using it for purposes such as:</p>
 
-To request feedback. We may process your information when necessary to request feedback and to contact you about your use of our Services.
-To protect our Services. We may process your information as part of our efforts to keep our Services safe and secure, including fraud monitoring and prevention.
-To identify usage trends. We may process information about how you use our Services to better understand how they are being used so we can improve them.
-To save or protect an individual's vital interest. We may process your information when necessary to save or protect an individual’s vital interest, such as to prevent harm.
+<ul>
+	<li>Creating, verifying, and managing user accounts and features;</li>
+	<li>Providing the Thalhalla Services, as well as support and assistance for them, including by responding to inquiries, processing transactions or requests, and communicating with users (such as by sending service and account-related messages and updates);</li>
+	<li>Developing, delivering, and improving the Thalhalla Services and other offerings, some of which may be offered in partnership with other parties;</li>
+	<li>Personalizing your experience, including by presenting content or features better tailored to you or your interests, or our inferences about your interests (for instance, if you frequently play games in a certain genre, we may infer that you’d be interested in that genre and suggest similar games to you);</li>
+	<li>Promoting the Thalhalla Services, including managing, customizing, and measuring the effectiveness of our advertisements, promotional offers, surveys, and events;</li>
+	<li>Managing alpha, beta, or early access tests (and collecting feedback);</li>
+	<li>Conducting data analytics (like analyzing how the Thalhalla Services are used so we can better understand, improve, and personalize them);</li>
+	<li>Complying with our legal or contractual obligations and enforcing our terms; and</li>
+	<li>Securing the Thalhalla Services, such as by detecting fraud and otherwise protecting Thalhalla and other users from illegal or harmful actions.</li>
+</ul>
 
-3. WHAT LEGAL BASES DO WE RELY ON TO PROCESS YOUR INFORMATION?
+<p>We may also process information that does not identify you individually, including aggregate or de-identified information that we create or collect from other sources. This information helps us better understand larger groups of users. If we combine this information with information that identifies you, we will treat it as described in this privacy policy. But please note that this privacy policy does not restrict our ability to process information that does not individually identify you, and we may use and disclose aggregated or de-identified information for any reason permitted by law.<br></br>
+&nbsp;</p>
 
-In Short: We only process your personal information when we believe it is necessary and we have a valid legal reason (i.e., legal basis) to do so under applicable law, like with your consent, to comply with laws, to provide you with services to enter into or fulfill our contractual obligations, to protect your rights, or to fulfill our legitimate business interests.
+<h2>4.&nbsp;HOW DO WE SHARE INFORMATION?</h2>
 
-If you are located in the EU or UK, this section applies to you.
+<p>We may share some of the information we collect to help operate and improve the Thalhalla Services. Depending on how you interact with us, common examples might include sharing:</p>
 
-The General Data Protection Regulation (GDPR) and UK GDPR require us to explain the valid legal bases we rely on in order to process your personal information. As such, we may rely on the following legal bases to process your personal information:
-Consent. We may process your information if you have given us permission (i.e., consent) to use your personal information for a specific purpose. You can withdraw your consent at any time. Learn more about withdrawing your consent.
-Performance of a Contract. We may process your personal information when we believe it is necessary to fulfill our contractual obligations to you, including providing our Services or at your request prior to entering into a contract with you.
-Legitimate Interests. We may process your information when we believe it is reasonably necessary to achieve our legitimate business interests and those interests do not outweigh your interests and fundamental rights and freedoms. For example, we may process your personal information for some of the purposes described in order to:
-Analyze how our Services are used so we can improve them to engage and retain users
-Diagnose problems and/or prevent fraudulent activities
-Understand how our users use our products and services so we can improve user experience
-Legal Obligations. We may process your information where we believe it is necessary for compliance with our legal obligations, such as to cooperate with a law enforcement body or regulatory agency, exercise or defend our legal rights, or disclose your information as evidence in litigation in which we are involved.
-Vital Interests. We may process your information where we believe it is necessary to protect your vital interests or the vital interests of a third party, such as situations involving potential threats to the safety of any person.
+<ul>
+	<li>With console and platform partners (for example, to facilitate gameplay when you access the Thalhalla Services through a third-party console provider);</li>
+	<li>With other game developers (such as to enable features for games you acquire through the Thalhalla Games Store);</li>
+	<li>With other users (like if you use social features such as chat);</li>
+	<li>Publicly (for example, your display name, content you create or share, basic game statistics, and other similar information may be generally accessible to others);</li>
+	<li>With service providers that operate on our behalf to help support the Thalhalla Services in accordance with our instructions (for example, cloud storage providers, payment processors, or marketing and advertising partners);</li>
+	<li>When we believe we must in order to comply with the law or to protect you, Thalhalla, or others (for example, in response to court order or subpoena, as part of an investigation of fraud or other illegal activity, or violation of our terms or policies, or if necessary to protect others from death or serious harm to body or property);</li>
+	<li>With other Thalhalla entities (including to help provide support for the Thalhalla Services internationally);</li>
+	<li>In connection with certain types of corporate transactions (like in the event of a restructuring or the sale of all or a significant part of our business); and</li>
+	<li>With your permission (for example, if you link external accounts with your Thalhalla account, or use your Thalhalla account to sign into third-party games and services or participate in cross-promotional events).</li>
+	<li>We may also share information that does not identify you with third parties, including aggregate or de-identified information.</li>
+</ul>
 
-If you are located in Canada, this section applies to you.
+<p>No mobile phone numbers provided to Thalhalla for security purposes will be shared with third parties or affiliates for marketing/promotional purposes. Third parties you interact with through Thalhalla Services may have different privacy practices than Thalhalla, so we encourage you to review their privacy policies before sharing your information with them.<br></br>
+&nbsp;</p>
 
-We may process your information if you have given us specific permission (i.e., express consent) to use your personal information for a specific purpose, or in situations where your permission can be inferred (i.e., implied consent). You can withdraw your consent at any time.
+<h2><a id="_5._CHILDREN’S_PRIVACY"></a>5.&nbsp;CHILDREN’S PRIVACY</h2>
 
-In some exceptional cases, we may be legally permitted under applicable law to process your information without your consent, including, for example:
-If collection is clearly in the interests of an individual and consent cannot be obtained in a timely way
-For investigations and fraud detection and prevention
-For business transactions provided certain conditions are met
-If it is contained in a witness statement and the collection is necessary to assess, process, or settle an insurance claim
-For identifying injured, ill, or deceased persons and communicating with next of kin
-If we have reasonable grounds to believe an individual has been, is, or may be victim of financial abuse
-If it is reasonable to expect collection and use with consent would compromise the availability or the accuracy of the information and the collection is reasonable for purposes related to investigating a breach of an agreement or a contravention of the laws of Canada or a province
-If disclosure is required to comply with a subpoena, warrant, court order, or rules of the court relating to the production of records
-If it was produced by an individual in the course of their employment, business, or profession and the collection is consistent with the purposes for which the information was produced
-If the collection is solely for journalistic, artistic, or literary purposes
-If the information is publicly available and is specified by the regulations
+<p>The Thalhalla Services are intended to be appropriate for general audiences and are not directed to children (usually considered to be under 13, depending on where you reside). Thalhalla does not intentionally collect personal information from children without seeking any required parental approval in accordance with applicable legal and regulatory obligations, such as the U.S. Children’s Online Privacy Protection Act (“COPPA”).</p>
 
-4. WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?
+<p>We may ask you to provide age-related information in order to help us comply with laws like COPPA. For example, we may request your date of birth to determine whether COPPA requires us to obtain verifiable parental consent from your parent or guardian before allowing you to access the Thalhalla Services. If a user indicates they are a COPPA minor, we’ll require that user to complete a parental approval process before continuing to access the relevant Thalhalla Services. This process is designed to notify parents that their child has requested access to the Thalhalla Services, inform them about Thalhalla’s privacy practices, offer them the opportunity to approve Thalhalla’s collection and use of their child’s information as described in this policy, and describe the controls that we make available to them.</p>
 
-In Short: We may share information in specific situations described in this section and/or with the following third parties. 
+<p>Once a parent provides their consent, we’ll give them an opportunity to review and change important account settings that control how their child can interact with the Thalhalla Services. To learn more, see<a href="https://www.thalhalla.com/Thalhalla/en-US/parental-controls">&nbsp;</a><a href="https://www.thalhalla.com/site/en-US/parental-controls">https://www.thalhalla.com/site/en-US/parental-controls</a>. Parents are also generally free to change or revoke the choices they’ve previously made, and can review the personal information associated with their child’s account or request that we delete it from our systems. To submit these requests or ask us any other questions you may have about how we handle your child’s personal information, please see “Contact Us” below.</p>
 
-We may need to share your personal information in the following situations:
-Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.
+<p>Authorized child accounts are otherwise treated much like other Thalhalla accounts unless the settings are adjusted through the parental controls available at&nbsp;<a href="https://www.thalhalla.com/site/en-US/parental-controls">https://www.thalhalla.com/site/en-US/parental-controls</a>. They can generally play approved games (such as Thalhalla, Rocket League, or Fall Guys), access communications and social features (like chat and friends lists), and freely interact with most of the Thalhalla Services (including downloading other games from the Thalhalla Games Store). For additional details, please see “What Information Do We Collect?”, “How Do We Use Information?”, and “How Do We Share Information?” above.</p>
 
-5. HOW LONG DO WE KEEP YOUR INFORMATION?
+<p><strong><em>SuperAwesome &amp; Kids Web Services</em></strong></p>
 
-In Short: We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
+<p>The Thalhalla Services use Kids Web Services (“KWS”) for parental and guardian verification purposes. KWS is a service focused on children’s safety that is offered by our subsidiary SuperAwesome. When you verify with KWS, SuperAwesome will remember that you have been verified the next time you use your email address to manage your child’s permission for other games or services powered by SuperAwesome so that you won’t need to do so again.&nbsp;This means Thalhalla and SuperAwesome are jointly responsible for how your personal information is used for parent verification services.</p>
 
-We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting, or other legal requirements). No purpose in this notice will require us keeping your personal information for longer than   three (3) months past the termination of the user's account .
+<p>You can&nbsp;learn more about SuperAwesome and KWS in SuperAwesome’s privacy policy here:&nbsp;<a href="https://www.superawesome.com/kws-privacy-notice/">https://www.superawesome.com/kws-privacy-notice/</a>.<br></br>
+&nbsp;</p>
 
-When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
+<h2>6.&nbsp;YOUR CHOICES AND CONTROLS</h2>
 
-6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+<p>We seek to provide you with meaningful choices about the personal information we collect. The specific choices available to you often vary depending on the exact nature of our relationship with you, such as the Thalhalla Services you use. Common examples include:</p>
 
-In Short: We aim to protect your personal information through a system of organizational and technical security measures.
+<ul>
+	<li>You can request that we provide access to, or that we correct or delete, personal information we’ve collected from you. Please submit requests to access, update, or delete personal information associated with your Thalhalla account by reaching out to us as described in “Contact Us” below. Note that we may ask you for additional information to help us verify who you are before completing your request.</li>
+	<li>You can change your email marketing preferences at any time, such as by using the opt-out mechanism provided in our marketing emails, updating your Thalhalla account settings, or contacting us with your request (see “Contact Us” below).</li>
+	<li>You can change your privacy settings on other parties’ websites (such as social networks) or platforms (like console providers) to limit the information they may share with us.</li>
+	<li>You can change your browser or mobile device settings to block, manage, delete, or limit tracking technologies like cookies. In some cases, blocking or disabling cookies may cause the Thalhalla Services not to work as intended and some features may not be available.</li>
+	<li>If you’re&nbsp;under the age of 18 and have an Thalhalla account, you&nbsp;can&nbsp;ask that we remove or anonymize certain content you’ve&nbsp;provided on the Thalhalla Services.&nbsp;Please direct requests to help delete or edit content on the Thalhalla Services to Thalhalla as described in “Contact Us” below.</li>
+	<li>Parents and guardians can adjust the settings for their child’s Thalhalla account by visiting&nbsp;<a href="https://www.thalhalla.com/Thalhalla/en-US/parental-controls">https://www.thalhalla.com/Thalhalla/en-US/parental-controls</a>.</li>
+</ul>
 
-We have implemented appropriate and reasonable technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our Services is at your own risk. You should only access the Services within a secure environment.
+<p>Some parts of the world provide individuals with specific choices related to their personal information by right under local law.<br></br>
+&nbsp;</p>
 
-7. DO WE COLLECT INFORMATION FROM MINORS?
+<h2>7. OUR GLOBAL OPERATIONS</h2>
 
-In Short: We do not knowingly collect data from or market to children under 18 years of age.
+<p>Thalhalla Games, Inc. is based in the United States, but we operate globally to help provide users all around the world with a better experience on the Thalhalla Services. We have subsidiaries, offices, service providers, and partners worldwide to support these operations in a number of different ways -- for example, the developer of Fall Guys is a subsidiary called Mediatonic Limited that is based in the United Kingdom. This means that Thalhalla may process the information we collect in connection with your use of the Thalhalla Services in places outside the region where you reside.</p>
 
-We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 18, please contact us at legal@thalhalla.com.
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; A. Data Transfers</h3>
 
-8. WHAT ARE YOUR PRIVACY RIGHTS?
+<p>When you use the Thalhalla Services, your information may be transferred to or stored in the United States or other countries where we or our service providers operate. The data protection laws and rules in these countries may be different than those where you live. We rely on various legal mechanisms to help lawfully support transfers of information outside the country of collection where appropriate. If permissible under local law, you’re authorizing Thalhalla to process your information in any of the locations where we operate (including the United States) by using the Thalhalla Services.</p>
 
-In Short: In some regions, such as the European Economic Area (EEA), United Kingdom (UK), and Canada, you have rights that allow you greater access to and control over your personal information. You may review, change, or terminate your account at any time.
+<p>To learn more about the Thalhalla entity responsible for operating the Thalhalla Services you use, see “Contact Us” below. &nbsp;</p>
 
-In some regions (like the EEA, UK, and Canada), you have certain rights under applicable data protection laws. These may include the right (i) to request access and obtain a copy of your personal information, (ii) to request rectification or erasure; (iii) to restrict the processing of your personal information; and (iv) if applicable, to data portability. In certain circumstances, you may also have the right to object to the processing of your personal information. You can make such a request by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below.
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B. California Residents</h3>
 
-We will consider and act upon any request in accordance with applicable data protection laws.
- 
-If you are located in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your Member State data protection authority or UK data protection authority.
+<p>The California Consumer Privacy Act or “CCPA” provides consumers residing in California certain rights with respect to their personal information. If you are a California resident, you may have the right to: (1) request to know more about the categories and specific pieces of personal information we collect, use, and disclose; (2) request deletion of your personal information; (3) opt out of sale of your personal information (if any); and (4) not be discriminated against for exercising these rights.</p>
 
-If you are located in Switzerland, you may contact the Federal Data Protection and Information Commissioner.
+<p>You or your authorized agent may make these requests by contacting us as described in “Contact Us” below. Note that we may ask you for additional information to help us verify who you are before completing your request. If we receive your request from an authorized agent, we may ask for evidence that you gave that person authority to submit requests to exercise rights on your behalf. We will not discriminate against you if you exercise your rights under the CCPA.</p>
 
-Withdrawing your consent: If we are relying on your consent to process your personal information, which may be express and/or implied consent depending on the applicable law, you have the right to withdraw your consent at any time. You can withdraw your consent at any time by contacting us by using the contact details provided in the section "HOW CAN YOU CONTACT US ABOUT THIS NOTICE?" below or updating your preferences.
+<p>In the past 12 months, we have collected the following categories of personal information, as described in the CCPA:</p>
 
-However, please note that this will not affect the lawfulness of the processing before its withdrawal nor, when applicable law allows, will it affect the processing of your personal information conducted in reliance on lawful processing grounds other than consent.
+<ul>
+	<li>Identifiers (such as email addresses);</li>
+	<li>Demographic information (like ages);</li>
+	<li>Commercial information (including entitlements or purchase history);</li>
+	<li>Internet or electronic network activity (for example, gameplay or website usage details);</li>
+	<li>Audio, electronic, visual, or similar information (like&nbsp;voice chat);</li>
+	<li>Geolocation information (such as may be derived from your IP address or included in your billing information);</li>
+	<li>Other “personal information” as defined under California law (like your credit or debit card information); and&nbsp;</li>
+	<li>Inferences drawn from any of these categories (for example,&nbsp;about the genres of games you may prefer to play based on your purchase history).</li>
+</ul>
 
-Account Information
+<p>For details about the precise data points we collect and the categories of sources where we got that information, please see “What Information Do We Collect?” above. We collect personal information for the business and commercial purposes described in “How Do We Use Information?” above.</p>
 
-If you would at any time like to review or change the information in your account or terminate your account, you can:
-Log in to your account settings and update your user account.
-Upon your request to terminate your account, we will deactivate or delete your account and information from our active databases. However, we may retain some information in our files to prevent fraud, troubleshoot problems, assist with any investigations, enforce our legal terms and/or comply with applicable legal requirements.
+<p>Thalhalla does not sell the personal information we collect. We do, however, disclose personal information as described in this policy (see “How Do We Share Information?” above). In the past 12 months, we have disclosed personal information to the following categories of recipients:</p>
 
-If you have questions or comments about your privacy rights, you may email us at legal@thalhalla.com.
+<ul>
+	<li>Business partners (for example,&nbsp;if you request that we share your email address with the developer of a game you purchase on the Thalhalla Games Store);</li>
+	<li>Other&nbsp;Thalhalla entities (like to subsidiaries that may help support certain Thalhalla Services);</li>
+	<li>Other users (for example, if you use chat or social features on the Thalhalla Services);</li>
+	<li>Service providers (as&nbsp;described in “How Do We Share Information?” above);</li>
+	<li>Operating systems and platforms; and</li>
+	<li>Government entities or other third parties in response to a legal request.</li>
+</ul>
 
-9. CONTROLS FOR DO-NOT-TRACK FEATURES
+<h3>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; C. Residents Of The European Economic Area, The United Kingdom, And Switzerland</h3>
 
-Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.
+<p>If you’re&nbsp;located in the European Economic Area (EEA), the United Kingdom (UK), or&nbsp;Switzerland, you have certain rights regarding how your personal data is processed.</p>
 
-10. DO UNITED STATES RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+<p><strong><em>Data Subject Rights</em></strong></p>
 
-In Short: If you are a resident of California, Colorado, Connecticut or Virginia, you are granted specific rights regarding access to your personal information.
+<p>You may have the right to access, correct, or delete personal data we have collected about you through the Thalhalla Services. You may also have the right to a portable copy of the personal data you have provided, and to object to or restrict processing of your personal data, such as for direct marketing. Where you have provided your consent to our data processing, you have the right to withdraw consent.</p>
 
-What categories of personal information do we collect?
+<p>You also have the right to make a complaint against us by contacting your local supervisory authority for data protection (if one exists in your country). We would, however, appreciate the chance to address your concerns before you contact a data protection regulator, and ask that you direct your complaint to us first.</p>
 
-We have collected the following categories of personal information in the past twelve (12) months:
+<p>Please see the “Contact Us” section below to learn more about reaching out to Thalhalla with any relevant concerns you may have. You can find more details about your local Data Protection Authority as follows:</p>
 
-Category	Examples	Collected
-A. Identifiers
-Contact details, such as real name, alias, postal address, telephone or mobile contact number, unique personal identifier, online identifier, Internet Protocol address, email address, and account name
+<p><strong><em>Basis for Processing</em></strong></p>
 
-YES
+<p>The legal bases we rely on to process your personal data depend on the Thalhalla Services you use and how you interact with them. They primarily include:</p>
 
-B. Protected classification characteristics under state or federal law
-Gender and date of birth
+<ul>
+	<li>Contractual Necessity: we process personal data to perform the Thalhalla Services you requested under our Terms of Service or other similar contractual agreements with you. For example, we process personal data to set up and maintain your account; process your purchases; authenticate users; provide user-experience features (like saving your preferences); monitor and analyze the Thalhalla Services; detect and prevent fraud, cheating, or other similar misuse; facilitate features like cross-progression that allow you to play a game on one platform and continue your progress on another, which may require us to share your information with third-party partners; and contact you about your account, transactions, or other updates. We also rely on performance of a contract to manage our relationship with you, which includes responding to your support requests or general inquiries, and notifying you about changes to our applicable terms or policies.</li>
+	<li>Legitimate Interests: we process personal data as needed for Thalhalla’s business purposes, as balanced against the potential impact on your privacy rights. This includes many common purposes that you’d reasonably expect, such as to: communicate with you, respond to your requests, or provide you with updates and information; better understand our users and their preferences; personalize your experience, save your preferences, authenticate our users, and provide similar user experience features; develop, deliver, and improve the Thalhalla Services and other offerings (some of which may be offered in partnership with other parties); manage and customize advertisements or promotional offers; secure and protect the Thalhalla Services; prevent fraud and illegal activity; and support internal purposes such as auditing and data analysis.</li>
+	<li>Legal Obligations: we process personal data when necessary to comply with legal obligations, such as responding to legitimate requests from law enforcement authorities or other government officials in accordance with relevant legal processes.</li>
+	<li>Consent: we process personal data when you provide us with your consent to do so. You aren’t required to provide consent if you do not want your personal data to be processed for the requested purposes, and you may withdraw your consent at any time.</li>
+</ul>
 
-NO
+<p><strong><em>Retention</em></strong></p>
 
-C. Commercial information
-Transaction information, purchase history, financial details, and payment information
+<p>Because the specific personal data we process and our reasons for doing so often vary depending on how you use the Thalhalla Services, how long we retain it can also vary. We generally store personal data for as long as we reasonably need it for the purposes described in this policy (like complying with our legal obligations, managing internal records, enforcing our terms, and resolving disputes), unless a long retention period is required or permitted by law.</p>
 
-NO
+<p>The main criteria we consider in determining specific retention periods often include minimum requirements under applicable law, relevant industry standards, the types of data in question (such as its level of sensitivity), relevance to potential litigation or similar proceedings (like defending ourselves against legal claims), and whether the data is required to prevent fraud or similar abuse of the Thalhalla Services (including to enforce prohibitions against cheating and other unauthorized behavior). For example, if you create an Thalhalla account, we will generally store the personal data associated with your Thalhalla account for as long as needed to maintain your account, provide the Thalhalla Services you requested, enforce any terms that apply and govern your use of the Thalhalla Services, and maintain appropriate records to reflect how we deliver the Thalhalla Services to you.</p>
 
-D. Biometric information
-Fingerprints and voiceprints
+<p>To learn more about requesting that Thalhalla delete your personal data, please see “Your Choices and Controls” and “Data Subject Rights” above.<br></br>
+&nbsp;</p>
 
-NO
+<h2>8. SECURITY</h2>
 
-E. Internet or other similar network activity
-Browsing history, search history, online behavior, interest data, and interactions with our and other websites, applications, systems, and advertisements
+<p>We maintain appropriate administrative, technical, and physical safeguards to protect your personal information from accidental, unlawful, or unauthorized destruction, loss, alteration, access, disclosure, or use and other unlawful forms of processing. In some cases, your information is accessible when you log into a feature we offer, and in those cases you need to keep your user credentials and password confidential and secure so that your information is protected.&nbsp;&nbsp;<br></br>
+&nbsp;</p>
 
-NO
+<h2>9. UPDATES</h2>
 
-F. Geolocation data
-Device location
+<p>We’ll update this policy from time to time to reflect changes in our practices or relevant laws. When we do, we’ll change the date noted at the top of the policy. In some cases we may also notify you of the relevant changes by email or within the Thalhalla Services. Please review this policy regularly to make sure that you understand your relationship with Thalhalla and the ways we may collect, use, and share information in connection with the Thalhalla Services.<br></br>
+&nbsp;</p>
 
-NO
+<h2>10. CONTACT US</h2>
 
-G. Audio, electronic, visual, thermal, olfactory, or similar information
-Images and audio, video or call recordings created in connection with our business activities
+<p>If you have questions or concerns about the Thalhalla Services (such as game-related issues, trouble accessing your Thalhalla account, bugs or other technical problems, payment matters, or content and entitlement issues), please contact our Player Support teams. You can learn more about submitting support requests for products and services from:</p>
 
-NO
+<ul>
+	<li>Thalhalla Games (like Thalhalla)&nbsp;<a href="https://www.thalhalla.com/help/en-US/">here</a>;</li>
+</ul>
 
-H. Professional or employment-related information
-Business contact details in order to provide you our Services at a business level or job title, work history, and professional qualifications if you apply for a job with us
+<p>If you want to learn more about our privacy practices or this policy, please email your questions about products and services from:</p>
 
-NO
+<p>You can also contact us via postal mail (marked “Attn: Legal Department”) to Thalhalla Games, Inc., located at 1105 West Oltorf, Austin, TX, USA.</p>
 
-I. Education Information
-Student records and directory information
+<p><strong>If you live outside of the United States</strong></p>
 
-NO
+<div class="table-container">
+<table>
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>and you are using:</strong></p>
+			</td>
+			<td>
+			<p><strong>the data controller is:</strong></p>
+			</td>
+			<td>
+			<p><strong>contact information:</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+			<p>the Thalhalla Games Store</p>
+			</td>
+			<td>
+			<p>Thalhalla Games.</p>
+			</td>
+			<td>
+			<p>1105 West Oltorf Austing, TX, USA</p>
 
-J. Inferences drawn from collected personal information
-Inferences drawn from any of the collected personal information listed above to create a profile or summary about, for example, an individual’s preferences and characteristics
+			<p>For any questions or concerns about the handling of personal data, contact our Data Protection Officer at <a href="mailto:dpo@support.thalhalla.com">dpo@support.thalhalla.com</a></p>
 
-NO
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
 
-K. Sensitive personal information		
+<p><br></br>
+&nbsp;</p>
+</div>
 
-NO
-
-L. Personal information as defined in the California Customer Records statute	Name, contact information, education, employment, employment history, and financial information	
-NO
-
-
-We will use and retain the collected personal information as needed to provide the Services or for:
-A. Identifiers - As long as the user has an account with us
-We may also collect other personal information outside of these categories through instances where you interact with us in person, online, or by phone or mail in the context of:
-Receiving help through our customer support channels;
-Participation in customer surveys or contests; and
-Facilitation in the delivery of our Services and to respond to your inquiries.
-How do we use and share your personal information?
-
-Learn about how we use your personal information in the section, "HOW DO WE PROCESS YOUR INFORMATION?"
-
-More information about our data collection and sharing practices can be found in this privacy notice.
-
-Will your information be shared with anyone else?
-
-We may disclose your personal information with our service providers pursuant to a written contract between us and each service provider. Learn more about who we disclose personal information to in the section, "WHEN AND WITH WHOM DO WE SHARE YOUR PERSONAL INFORMATION?"
-
-We may use your personal information for our own business purposes, such as for undertaking internal research for technological development and demonstration. This is not considered to be "selling" of your personal information.
-
-We have not disclosed, sold, or shared any personal information to third parties for a business or commercial purpose in the preceding twelve (12) months. We will not sell or share personal information in the future belonging to website visitors, users, and other consumers.
-
-California Residents
-
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.
-
-If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g., backups, etc.).
-
-CCPA Privacy Notice
-
-This section applies only to California residents. Under the California Consumer Privacy Act (CCPA), you have the rights listed below.
-
-The California Code of Regulations defines a "resident" as:
-
-(1) every individual who is in the State of California for other than a temporary or transitory purpose and
-(2) every individual who is domiciled in the State of California who is outside of the State of California for a temporary or transitory purpose
-
-All other individuals are defined as "non-residents."
-
-If this definition of "resident" applies to you, we must adhere to certain rights and obligations regarding your personal information.
-
-Your rights with respect to your personal data
-
-Right to request deletion of the data — Request to delete
-
-You can ask for the deletion of your personal information. If you ask us to delete your personal information, we will respect your request and delete your personal information, subject to certain exceptions provided by law, such as (but not limited to) the exercise by another consumer of his or her right to free speech, our compliance requirements resulting from a legal obligation, or any processing that may be required to protect against illegal activities.
-
-Right to be informed — Request to know
-
-Depending on the circumstances, you have a right to know:
-whether we collect and use your personal information;
-the categories of personal information that we collect;
-the purposes for which the collected personal information is used;
-whether we sell or share personal information to third parties;
-the categories of personal information that we sold, shared, or disclosed for a business purpose;
-the categories of third parties to whom the personal information was sold, shared, or disclosed for a business purpose;
-the business or commercial purpose for collecting, selling, or sharing personal information; and
-the specific pieces of personal information we collected about you.
-In accordance with applicable law, we are not obligated to provide or delete consumer information that is de-identified in response to a consumer request or to re-identify individual data to verify a consumer request.
-
-Right to Non-Discrimination for the Exercise of a Consumer’s Privacy Rights
-
-We will not discriminate against you if you exercise your privacy rights.
-
-Right to Limit Use and Disclosure of Sensitive Personal Information
-
-We do not process consumer's sensitive personal information.
-
-Verification process
-
-Upon receiving your request, we will need to verify your identity to determine you are the same person about whom we have the information in our system. These verification efforts require us to ask you to provide information so that we can match it with information you have previously provided us. For instance, depending on the type of request you submit, we may ask you to provide certain information so that we can match the information you provide with the information we already have on file, or we may contact you through a communication method (e.g., phone or email) that you have previously provided to us. We may also use other verification methods as the circumstances dictate.
-
-We will only use personal information provided in your request to verify your identity or authority to make the request. To the extent possible, we will avoid requesting additional information from you for the purposes of verification. However, if we cannot verify your identity from the information already maintained by us, we may request that you provide additional information for the purposes of verifying your identity and for security or fraud-prevention purposes. We will delete such additionally provided information as soon as we finish verifying you.
-
-Other privacy rights
-You may object to the processing of your personal information.
-You may request correction of your personal data if it is incorrect or no longer relevant, or ask to restrict the processing of the information.
-You can designate an authorized agent to make a request under the CCPA on your behalf. We may deny a request from an authorized agent that does not submit proof that they have been validly authorized to act on your behalf in accordance with the CCPA.
-You may request to opt out from future selling or sharing of your personal information to third parties. Upon receiving an opt-out request, we will act upon the request as soon as feasibly possible, but no later than fifteen (15) days from the date of the request submission.
-To exercise these rights, you can contact us by visiting legal@thalhalla.com, by emailing legal@thalhalla.com, or by referring to the contact details at the bottom of this document. If you have a complaint about how we handle your data, we would like to hear from you.
-
-Colorado Residents
-
-This section applies only to Colorado residents. Under the Colorado Privacy Act (CPA), you have the rights listed below. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
-Right to be informed whether or not we are processing your personal data
-Right to access your personal data
-Right to correct inaccuracies in your personal data
-Right to request deletion of your personal data
-Right to obtain a copy of the personal data you previously shared with us
-Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
-To submit a request to exercise these rights described above, please email legal@thalhalla.com or visit legal@thalhalla.com.
-
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at legal@thalhalla.com. Within forty-five (45) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
-
-Connecticut Residents
-
-This section applies only to Connecticut residents. Under the Connecticut Data Privacy Act (CTDPA), you have the rights listed below. However, these rights are not absolute, and in certain cases we may decline your request as permitted by law.
-Right to be informed whether or not we are processing your personal data
-Right to access your personal data
-Right to correct inaccuracies in your personal data
-Right to request deletion of your personal data
-Right to obtain a copy of the personal data you previously shared with us
-Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that product legal or similarly significant effects ("profiling")
-To submit a request to exercise these rights described above, please email legal@thalhalla.com or visit legal@thalhalla.com.
- 
-If we decline to take action regarding your request and you wish to appeal our decision, please email us at legal@thalhalla.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions.
-
-Virginia Residents
-
-Under the Virginia Consumer Data Protection Act (VCDPA):
-
-"Consumer" means a natural person who is a resident of the Commonwealth acting only in an individual or household context. It does not include a natural person acting in a commercial or employment context.
-
-"Personal data" means any information that is linked or reasonably linkable to an identified or identifiable natural person. "Personal data" does not include de-identified data or publicly available information.
-
-"Sale of personal data" means the exchange of personal data for monetary consideration.
-
-If this definition "consumer" applies to you, we must adhere to certain rights and obligations regarding your personal data.
-
-Your rights with respect to your personal data
-Right to be informed whether or not we are processing your personal data
-Right to access your personal data
-Right to correct inaccuracies in your personal data
-Right to request deletion of your personal data
-Right to obtain a copy of the personal data you previously shared with us
-Right to opt out of the processing of your personal data if it is used for targeted advertising, the sale of personal data, or profiling in furtherance of decisions that produce legal or similarly significant effects ("profiling")
-Exercise your rights provided under the Virginia VCDPA
-
-You may contact us by email at legal@thalhalla.com or visit legal@thalhalla.com.
-
-If you are using an authorized agent to exercise your rights, we may deny a request if the authorized agent does not submit proof that they have been validly authorized to act on your behalf.
-
-Verification process
-
-We may request that you provide additional information reasonably necessary to verify you and your consumer's request. If you submit the request through an authorized agent, we may need to collect additional information to verify your identity before processing your request.
-
-Upon receiving your request, we will respond without undue delay, but in all cases, within forty-five (45) days of receipt. The response period may be extended once by forty-five (45) additional days when reasonably necessary. We will inform you of any such extension within the initial 45-day response period, together with the reason for the extension.
-
-Right to appeal
-
-If we decline to take action regarding your request, we will inform you of our decision and reasoning behind it. If you wish to appeal our decision, please email us at legal@thalhalla.com. Within sixty (60) days of receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If your appeal if denied, you may contact the Attorney General to submit a complaint.
-
-11. DO WE MAKE UPDATES TO THIS NOTICE?
-
-In Short: Yes, we will update this notice as necessary to stay compliant with relevant laws.
-
-We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
-
-12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
-
-If you have questions or comments about this notice, you may email us at legal@thalhalla.com or contact us by post at:
-
-Thalhalla
-1105 West Oltorf
-Austin, TX 78704
-United States
-
-13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
-
-You have the right to request access to the personal information we collect from you, change that information, or delete it. To request to review, update, or delete your personal information, please visit: legal@thalhalla.com.
     </p>
     </main>
   </Layout>
