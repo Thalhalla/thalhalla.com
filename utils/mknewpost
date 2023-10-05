@@ -1,0 +1,19 @@
+#!/bin/bash
+REPLACEME_TITLE_REPLACEME="$@"
+TMP=$(mktemp -d)
+THIS_CWD=$(pwd)
+
+#echo What is the title? 
+#read REPLACEME_TITLE_REPLACEME
+
+export REPLACEME_TITLE_REPLACEME=$REPLACEME_TITLE_REPLACEME
+export REPLACEME_SLUG_REPLACEME=$(echo $REPLACEME_TITLE_REPLACEME  |tr '[:upper:]' '[:lower:]'|tr ' ' '-')
+mkdir UE2023-$REPLACEME_SLUG_REPLACEME
+export REPLACEME_DATE_REPLACEME=$(date -I)
+export newindex=UE2023-$REPLACEME_TITLE_REPLACEME/index.js
+cp -v template/uf-event-opening-session.jpg UE2023-$REPLACEME_SLUG_REPLACEME/
+cp -v template/index.mdx $TMP/
+cd $TMP
+envsubst < index.mdx > final-index.mdx
+cp final-index.mdx $THIS_CWD/UE2023-$REPLACEME_SLUG_REPLACEME/index.mdx
+rm -Rf $TMP
